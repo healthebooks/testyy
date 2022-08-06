@@ -3,9 +3,9 @@ const infuraId = "e6d5302d5ce94c5db69709e8b77eb9a3"     // Infuria ID | https://
 const moralisApi = "79L5AEOKyD5iUCDHtEvh119v6pN1bs1xC2E0U4nikUt9H2spy5hq16voHpNMq6TE"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Crypt NFTs",
+    name: "Yin Yang Gang NFT",
     title: "NFTL MINT", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "08.03.2022",
+    date: "08.06.2022",
     socialMedia: {
         discord: "",
         twitter: "https://twitter.com/gmoneyNFT_",
